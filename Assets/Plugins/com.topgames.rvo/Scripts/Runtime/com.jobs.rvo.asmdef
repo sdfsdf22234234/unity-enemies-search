@@ -1,0 +1,21 @@
+{
+    "name": "com.jobs.rvo",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Burst",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Nebukam.Common",
+        "Nebukam.JobAssist",
+        "Nebukam.ORCA"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

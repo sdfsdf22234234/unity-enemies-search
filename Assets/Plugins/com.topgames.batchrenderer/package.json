@@ -1,0 +1,29 @@
+{
+  "name": "com.topgames.batchrenderer",
+  "displayName": "Batch Renderer",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Batch Renderer Group.",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.9",
+    "com.unity.jobs": "0.70.0-preview.7",
+    "com.unity.collections": "2.1.4"
+  },
+
+  "documentationUrl": "https://blog.csdn.net/final5788/article/details/133636321",
+  "repository": {
+    "url": "https://blog.csdn.net/final5788",
+    "type": "git"
+  },
+  "author": {
+    "name": "sunmingming",
+    "email": "sunmmvip@gmail.com"
+  },
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "This sample demonstrates how to use batch renderer.",
+      "path": "BRG_Demo~"
+    }
+  ]
+}

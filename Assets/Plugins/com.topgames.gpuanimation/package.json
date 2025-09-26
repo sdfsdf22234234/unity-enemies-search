@@ -1,0 +1,27 @@
+{
+  "name": "com.sunsparkstudio.gpuanimation",
+  "displayName": "GPU Animation",
+  "version": "2.0.0",
+  "unity": "2022.3",
+  "description": "Convert animation clip to gpu vertex animation or gpu bones animation.",
+  "dependencies": {
+
+  },
+
+  "documentationUrl": "https://www.bilibili.com/video/BV1jp4y1d7PF/?share_source=copy_web&vd_source=47daa1bb9519dea051e24cd30d7be9be",
+  "repository": {
+    "url": "https://blog.csdn.net/final5788",
+    "type": "git"
+  },
+  "author": {
+    "name": "SunSparkStudio",
+    "email": "sunmmvip@gmail.com"
+  },
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "This sample demonstrates how to use gpu animation.",
+      "path": "Samples~"
+    }
+  ]
+}

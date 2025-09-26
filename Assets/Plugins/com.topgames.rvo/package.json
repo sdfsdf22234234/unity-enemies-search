@@ -1,0 +1,38 @@
+{
+    "name": "com.topgames.rvo",
+    "version": "1.0.0",
+    "displayName": "Jobs RVO",
+    "description": "Optimal Reciprocal Collision Avoidance",
+    "unity": "2022.3",
+    "documentationUrl":"https://blog.csdn.net/final5788",
+    "keywords": [
+      "ORCA",
+      "RVO",
+      "pathfinding",
+      "navigation",
+      "avoidance",
+      "collision"
+    ],
+    "category": "Navigation",
+    "author": {
+      "name": "Timothe Lapetite",
+      "email": "nebukam@gmail.com",
+      "url": "https://github.com/Nebukam/com.nebukam.orca.git"
+    },
+    "dependencies": {
+      "com.unity.burst": "1.8.9",
+      "com.unity.collections": "2.1.4",
+      "com.unity.jobs": "0.70.0-preview.7",
+      "com.unity.mathematics": "1.2.6"
+    },
+    "gitDependencies": {
+        "com.nebukam.orca":"https://gitee.com/GameFrameworks/com.nebukam.orca.git"
+    },
+    "samples": [
+      {
+        "displayName": "Samples",
+        "description": "This sample demonstrates how to use rvo component.",
+        "path": "Samples~"
+      }
+    ]
+  }
